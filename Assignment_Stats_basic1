@@ -1,0 +1,58 @@
+1) Statistic is branch of science of collecting,organising and analysing the data for decision making.
+2) Types of Statistics are : 1. Descriptive statistics 2. Inferential Statistics
+   In Descriptive Statistics,It is about Organising and summarizing the data. eg. Measure of central tendency, Measure of Dispersion
+   In Inferential Statistics, It consists of using the data to form conclusion. eg. z-test,t-test,Hypothesis testing
+   Example Problem: There are 5 students in Class. The Height of the students is 175,180,160,140,130
+   Descriptive Question:
+     What is average height of students in class ? Answer : Using Measure of central tendency --mean [175+180+160+140+130]/5 = 785/5=157
+   Inferential Question:
+     Are the average height of students in class similar to what is expected in entire college?
+     
+3)2 Types of Data: 1) Quantitative: It consists of numerial data. It can be Discrete or Continuous
+                        Discrete : Its usually a whole number.eg. No. of bank accounts ,No. children in Family
+                        Continuous:It can be any value. eg. Height,Weight,Temperature,Speed
+                   2) Qualitative:It consists of categorical data. It can be Ordinal or Nominal 
+                        Nominal :It is a named Variable eg. Gender,Blood Group,Color
+                        Ordinal :It is based on Rank.eg. (Good,Bad,Satisfactory)
+   
+4) i)Nominal
+  ii) Nominal
+  iii)Continuous
+  iv) Discrete
+  
+5)There are 4 Types of scale of Measurment of Data:
+     i) Nominal Scale Data: It is used for categorical variable eg. Gender , color , Labels.
+        Here, Order does not matter.
+     ii) Ordinal Scale Data : Rank and Order of the data matters.The difference cannot be measured.
+   Eg. Marks : 100(1st rank) ,90(2nd rank),65(3rd rank),70(4th rank),30 (5th rank)
+
+    iii)Interval scale data : Rank and Order of the data matters. The difference cannot be measured.
+           Interval can be measured (except for Ratios).
+           It does not have “0” as starting value.
+           Eg.Temperature – 30F,60F,80F,90F.So, Difference between 2 consecutive data points 60-30 =30 F which is a useful measure .however,               ratio cannot be used here.
+     iv)Ratio scale data: Order and rank matter. Both Difference and ratios are measurable.
+        It does not have “0” as starting value.
+        Eg. Grades : 100,90,60,50,30. The difference between grade 100 and 50 is 50 and ratio is 100/50 =2:1 
+
+6) The level of measurement determines the type of statistical analysis that can be conducted,to draw conclusions.
+   For example: If you wanted to analyze the exact distance between items rather than understand only how they compare to one another, you      might want to rely on data at the interval scale data for measurement.
+   
+7)Nominal data consists of named/labelled variables , whereas Ordinal data is differenciated based on rank or order of data.
+8)Histogram.Usually it is for continuous data to demonstrate the distribution of variables.
+9)In Descriptive Statistics,It is about Organising and summarizing the data. eg. Measure of central tendency, Measure of Dispersion
+   In Inferential Statistics, It consists of using the data to form conclusion. eg. z-test,t-test,Hypothesis testing
+   Example Problem: There are 5 students in Class. The Height of the students is 175,180,160,140,130
+   Descriptive Question:
+     What is average height of students in class ? Answer : Using Measure of central tendency --mean [175+180+160+140+130]/5 = 785/5=157
+   Inferential Question:
+     Are the average height of students in class similar to what is expected in entire college?
+     
+ 10)Measures of central tendency are :
+     Mean:The mean of a data set is also known as the average value.
+     Median:The median of a data set is the value that is at the middle of a data set arranged from smallest to largest.
+     Mode:The mode is the most common observation of a data set, or the value in the data set that occurs most frequently.
+   Variability can be measured usually with:
+    Range: the difference between the highest and lowest values
+    Interquartile range: the range of the middle half of a distribution
+    Standard deviation: average distance from the mean
+    Variance: average of squared distances from the mean
