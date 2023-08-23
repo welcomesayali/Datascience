@@ -1,0 +1,96 @@
+1)Three measures of central tendency are mean,median,mode
+2)Measures of central tendency are :
+     Mean:The mean of a data set is also known as the average value.
+     Median:The median of a data set is the value that is at the middle of a data set arranged from smallest to largest.
+     Mode:The mode is the most common observation of a data set, or the value in the data set that occurs most frequently.
+3)
+Given: Height = [178,177,176,177,178.2,178,175,179,180,175,178.9,176.2,177,172.5,178,176.5]
+        Mean =[178,177,176,177,178.2,178,175,179,180,175,178.9,176.2,177,172.5,178,176.5]/16 = 177.01875
+        Median = (175+179)/2 = 177
+        Mode = 177,178
+        
+4)
+Given: [178,177,176,177,178.2,178,175,179,180,175,178.9,176.2,177,172.5,178,176.5]
+       S^2 =summation of (Xi - mean)^2/n-1 for i 0 to n
+       
+           = 3.41229166666667
+        S = Squareroot of (3.41229166666667)
+          = 1.847239
+          
+5)Measures of Dispersion:
+    eg. data set:  Monthly Salary (k) =(90,80,18,18,17,16,16,16,15,14)
+ i) Range :Calculated by (largest value - smallest value) ---Range = 90 – 14 = 76
+ ii)Standard Deviation : Calculated as Squareroot of Variance --27.7495
+ iii)Variance: Calculated by  s2 = ∑n1 (Xi−Xmean)^2/n−1  ---> 770.038
+ iiv)Interquartile Range (IQR): is the range of the middle 50% of the values in the data distribution. It is the difference between the                                     third quartile(Q3) and the first quartile(Q1).
+                                Calculated by IQR = Q3 – Q1 --- 18-16= 2
+                                where Q1 is the median of the lower half of the distribution (90,80,18,18,17). The number of observations is                                       5, it is an odd number. As such Q1 is the value at 3rd position,  (n+1) / 2.
+                                and   Q3 is the median of the upper half of the distribution (16,16,16,15,14). The number of observations in                                       the upper half also is 5. As such Q3 will be the value at 3rd position in the upper half of the data
+ 
+6) A Venn diagram illustrates the relationships between two or more data sets.In a Venn diagram, circles are used to represent each data set.
+
+7) A = (2,3,4,5,6,7) B = (0,2,6,8,10)
+   i) A∩B =  ( 2,6)
+  ii) AUB = (2,3,4,5,6,7,8,10)
+  
+8)Skewness is a measurement of the distortion of symmetrical distribution or asymmetry in a data set.
+9)If Data is right-skewed , Then mean>=median.The Distribution will be log normal distribution.
+10)Covariance indicates the relationship of 2 variables when one variable changes while correlation is a measure of strength of association between 2 continuous variables. Both covariance and correlation measure the relationship and the dependency between two variables.
+Covariance indicates the direction of the linear relationship between variables.
+Satistics:
+    Cov(x,y) = Σ ((xi – x) * (yi – ) / (N – 1)
+    Where:
+
+            xi = Data variable of x
+            yi = Data variable of y
+             x = Mean of x
+             y = Mean of y
+             N = Number of data variables.
+
+
+    Correlation = Cov(x,y) / (σx * σy)
+    Where:
+
+            Cov(x,y): Covariance of x & y variables.
+            σx = Standard deviation of the X- variable.
+            σy = Standard deviation of the Y- variable.
+            
+11) Formula:  x̄ = ( Σ xi ) / n
+    Example: Given: Height = [178,177,176,177,178.2,178,175,179,180,175,178.9,176.2,177,172.5,178,176.5]
+                    Mean =[178,177,176,177,178.2,178,175,179,180,175,178.9,176.2,177,172.5,178,176.5]/16 = 177.01875
+                    
+12) For  normal distribution data, Mean=Median=Mode.
+
+13) Covariance measures the direction of a relationship between two variables, while correlation measures the strength and direction of the linear relationship between two variables.
+
+14)Measures of central tendency are mean, median and mode. 
+   Outliers affect the mean value of the data but have little effect on the median or mode of a given set of data.
+   Outliers are causing the mean to increase.It skews the results so that the mean is no longer representative of the data set
+   
+   Measure of Dispersion are range, interquartile range, standard deviation and variance.
+   1.Outliers affect the Range as it range takes only two values.
+   2.Outliers do not impact Interquartile Range.
+   IQR omits the extreme values, hence it is not impacted by the outliers. When the data have outliers, IQR is the best measure of      dispersion.
+   3.Outliers can significantly increase the variance and standard deviation and data is skewed.
+    
+    eg. data set:  Monthly Salary (k) =(90,80,18,18,17,16,16,16,15,14)
+    Range :Calculated by (largest value - smallest value) ---Range = 90 – 14 = 76
+           But, the data distribution has two extreme values (90, 80). If we chop them, the range of the salary will be 4 (18 – 14).
+           
+    Interquartile Range (IQR): IQR omits the extreme values (80,90)
+                               It is the range of the middle 50% of the values in the data distribution. It is the difference between the                                  third quartile(Q3) and the first quartile(Q1).
+                                Calculated by IQR = Q3 – Q1 --- 18-16= 2
+                                where Q1 is the median of the lower half of the distribution (90,80,18,18,17). The number of observations is                                       5, it is an odd number. As such Q1 is the value at 3rd position,  (n+1) / 2.
+                                and   Q3 is the median of the upper half of the distribution (16,16,16,15,14). The number of observations in                                       the upper half also is 5. As such Q3 will be the value at 3rd position in the upper half of the data
+ 
+
+   
+
+
+
+
+
+
+
+
+
